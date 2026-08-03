@@ -1,6 +1,6 @@
 {
-  "name": "snowmy-web",
-  "interface": { "displayName": "snowmy-tech Web Development" },
+  "name": "web",
+  "interface": { "displayName": "Web" },
   "plugins": [
     {
       "name": "build-web-apps",
@@ -8,7 +8,7 @@
         "source": "git-subdir",
         "url": "https://github.com/snowmy-tech/plugins.git",
         "path": "./plugins/build-web-apps",
-        "sha": "ba8b968e730523bf990b6556cdba4fdcd41330eb"
+        "sha": "9e85545a0ec2cfb9e6958787bf1c40e70838c95f"
       },
       "policy": { "installation": "AVAILABLE", "authentication": "ON_USE" },
       "category": "Developer Tools"
@@ -19,7 +19,7 @@
         "source": "git-subdir",
         "url": "https://github.com/snowmy-tech/plugins.git",
         "path": "./plugins/build-web-data-visualization",
-        "sha": "ba8b968e730523bf990b6556cdba4fdcd41330eb"
+        "sha": "9e85545a0ec2cfb9e6958787bf1c40e70838c95f"
       },
       "policy": { "installation": "AVAILABLE", "authentication": "ON_USE" },
       "category": "Developer Tools"
