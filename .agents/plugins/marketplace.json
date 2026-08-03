@@ -8,7 +8,7 @@
         "source": "git-subdir",
         "url": "https://github.com/snowmy-tech/plugins.git",
         "path": "./plugins/build-web-apps",
-        "sha": "4c65e8d63ecf5aa9237cfe7877b7db3da937e42a"
+        "sha": "ba8b968e730523bf990b6556cdba4fdcd41330eb"
       },
       "policy": { "installation": "AVAILABLE", "authentication": "ON_USE" },
       "category": "Developer Tools"
@@ -19,7 +19,7 @@
         "source": "git-subdir",
         "url": "https://github.com/snowmy-tech/plugins.git",
         "path": "./plugins/build-web-data-visualization",
-        "sha": "4c65e8d63ecf5aa9237cfe7877b7db3da937e42a"
+        "sha": "ba8b968e730523bf990b6556cdba4fdcd41330eb"
       },
       "policy": { "installation": "AVAILABLE", "authentication": "ON_USE" },
       "category": "Developer Tools"
